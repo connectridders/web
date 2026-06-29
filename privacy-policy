@@ -1,0 +1,191 @@
+<!doctype html>
+<!--
+  Connect Riders — Privacy Policy (standalone page)
+  Before publishing, replace the placeholders:
+    - Contact email:  support@connectriders.app
+    - "Last updated" date if needed
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Privacy Policy · Connect Riders</title>
+  <meta name="description" content="Privacy Policy for the Connect Riders mobile app." />
+
+  <style>
+    :root { --ink: #111; --muted: #666; --line: #e6e6e6; }
+    * { box-sizing: border-box; }
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--ink);
+      line-height: 1.6;
+      padding: 24px;
+      max-width: 760px;
+      margin: 0 auto;
+    }
+    header { border-bottom: 1px solid var(--line); padding-bottom: 16px; margin-bottom: 24px; }
+    h1 { font-size: 26px; margin: 0 0 4px; }
+    h2 { font-size: 19px; margin: 32px 0 8px; }
+    h3 { font-size: 16px; margin: 20px 0 6px; }
+    p, li { font-size: 15px; }
+    p.muted, .muted { color: var(--muted); }
+    a { color: #0b62d6; }
+    ul { padding-left: 22px; }
+    li { margin: 4px 0; }
+    table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+    th, td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; font-size: 14px; }
+    th { background: #fafafa; }
+    code { background: #f5f5f5; padding: 1px 5px; border-radius: 4px; font-size: 13px; }
+    footer { border-top: 1px solid var(--line); margin-top: 40px; padding-top: 16px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Privacy Policy</h1>
+    <p class="muted">Connect Riders mobile app</p>
+    <p class="muted"><strong>Last updated:</strong> 29 June 2026</p>
+  </header>
+
+  <p>
+    This Privacy Policy explains how Connect Riders (the &ldquo;App,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or
+    &ldquo;our&rdquo;) collects, uses, shares, and protects information when you use the Connect Riders mobile
+    application. Connect Riders is a community app for motorcycle riders to discover, create, follow, and navigate
+    routes, share posts, and organize events.
+  </p>
+  <p>
+    By creating an account or using the App, you agree to the practices described in this policy. If you do not agree,
+    please do not use the App.
+  </p>
+
+  <h2>1. Information We Collect</h2>
+
+  <h3>1.1 Information you provide</h3>
+  <ul>
+    <li><strong>Account details:</strong> email address, password, username, and display name.</li>
+    <li><strong>Profile information:</strong> profile photo, bio, and motorcycle details (make, model, photos) you choose to add.</li>
+    <li><strong>Content you create:</strong> posts, captions, photos, comments, routes (including recorded or imported GPS paths), and events you create or join.</li>
+    <li><strong>Social interactions:</strong> likes, bookmarks, follows, comments, and event participation.</li>
+  </ul>
+
+  <h3>1.2 Location information</h3>
+  <ul>
+    <li><strong>Precise GPS location</strong> is used to record routes, provide turn-by-turn navigation, and show nearby content. Route recording captures location continuously while active.</li>
+    <li><strong>Approximate location</strong> (city and country) is captured at registration and when you update your profile, to power location-based features such as the &ldquo;Nearby&rdquo; feed.</li>
+    <li>Location is only collected with your device permission. You can revoke location access at any time in your device settings; some features (route recording, navigation, nearby feed) will not work without it.</li>
+  </ul>
+
+  <h3>1.3 Information collected automatically</h3>
+  <ul>
+    <li><strong>Diagnostic and crash data</strong> (device model, operating system version, app version, crash logs and stack traces) collected to keep the App stable.</li>
+    <li><strong>Usage data</strong> related to app interactions and performance.</li>
+  </ul>
+
+  <h3>1.4 Purchase information</h3>
+  <ul>
+    <li>If you purchase a subscription, the transaction is processed by the Apple App Store or Google Play. We receive subscription status and a non-identifying purchase identifier through our payments provider (RevenueCat). <strong>We never receive or store your full payment card details.</strong></li>
+  </ul>
+
+  <h2>2. How We Use Your Information</h2>
+  <ul>
+    <li>Create and manage your account and profile.</li>
+    <li>Let you create, discover, follow, and navigate routes.</li>
+    <li>Display posts, events, comments, and social interactions.</li>
+    <li>Provide location-based features (nearby feed, route navigation).</li>
+    <li>Process and manage subscriptions and entitlements.</li>
+    <li>Diagnose crashes, fix bugs, and improve reliability and performance.</li>
+    <li>Communicate important account, security, or service updates.</li>
+    <li>Protect against fraud, abuse, and violations of our terms.</li>
+  </ul>
+
+  <h2>3. Third-Party Services</h2>
+  <p>We rely on trusted third-party providers to operate the App. Each processes data under its own privacy policy:</p>
+  <table>
+    <tr><th>Provider</th><th>Purpose</th><th>Privacy policy</th></tr>
+    <tr>
+      <td>Google Firebase (Authentication, Firestore, Storage, Crashlytics)</td>
+      <td>Account auth, data storage, media hosting, crash reporting</td>
+      <td><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">firebase.google.com/support/privacy</a></td>
+    </tr>
+    <tr>
+      <td>Google Maps &amp; Places</td>
+      <td>Maps, route display, and location/place autocomplete</td>
+      <td><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a></td>
+    </tr>
+    <tr>
+      <td>RevenueCat</td>
+      <td>Subscription management and purchase validation</td>
+      <td><a href="https://www.revenuecat.com/privacy" target="_blank" rel="noopener">revenuecat.com/privacy</a></td>
+    </tr>
+    <tr>
+      <td>Apple App Store / Google Play</td>
+      <td>Payment processing for in-app purchases</td>
+      <td><a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">apple.com/legal/privacy</a> · <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a></td>
+    </tr>
+  </table>
+
+  <h2>4. How We Share Information</h2>
+  <p>We do <strong>not</strong> sell your personal information. We share information only as follows:</p>
+  <ul>
+    <li><strong>Publicly within the App:</strong> your username, profile photo, motorcycle details, posts, routes, comments, and events are visible to other users. Do not include sensitive information in content you publish.</li>
+    <li><strong>Service providers:</strong> with the third parties listed above, solely to operate the App.</li>
+    <li><strong>Legal reasons:</strong> when required by law, regulation, legal process, or to protect the rights, safety, and security of users or the public.</li>
+    <li><strong>Business transfers:</strong> in connection with a merger, acquisition, or sale of assets, subject to this policy.</li>
+  </ul>
+
+  <h2>5. Data Retention</h2>
+  <p>
+    We retain your information for as long as your account is active or as needed to provide the App. When you delete
+    your account, we delete or anonymize your personal data within a reasonable period, except where retention is
+    required for legal, security, or fraud-prevention purposes. Some content shared publicly (such as comments on
+    other users&rsquo; content) may persist in de-identified form.
+  </p>
+
+  <h2>6. Your Rights and Choices</h2>
+  <ul>
+    <li><strong>Access and update:</strong> edit your profile and content from within the App.</li>
+    <li><strong>Location:</strong> control location permissions through your device settings.</li>
+    <li><strong>Account deletion:</strong> request deletion of your account and associated data by contacting us at the email below.</li>
+    <li><strong>Regional rights:</strong> depending on your location (e.g., the EEA/UK under GDPR, or California under CCPA/CPRA), you may have rights to access, correct, delete, or port your data, and to object to or restrict certain processing. Contact us to exercise these rights.</li>
+  </ul>
+
+  <h2>7. Children&rsquo;s Privacy</h2>
+  <p>
+    Connect Riders is not intended for children under 13 (or the minimum age required in your jurisdiction). We do not
+    knowingly collect personal information from children. If you believe a child has provided us with personal data,
+    please contact us and we will delete it.
+  </p>
+
+  <h2>8. Data Security</h2>
+  <p>
+    We use industry-standard safeguards, including encrypted connections and access controls provided by our
+    infrastructure providers, to protect your information. No method of transmission or storage is completely secure,
+    so we cannot guarantee absolute security.
+  </p>
+
+  <h2>9. International Data Transfers</h2>
+  <p>
+    Your information may be stored and processed on servers located outside your country of residence, including by
+    our service providers. Where required, we rely on appropriate safeguards for such transfers.
+  </p>
+
+  <h2>10. Changes to This Policy</h2>
+  <p>
+    We may update this Privacy Policy from time to time. Material changes will be reflected by updating the
+    &ldquo;Last updated&rdquo; date above and, where appropriate, by notice within the App. Continued use of the App
+    after changes take effect constitutes acceptance of the revised policy.
+  </p>
+
+  <h2>11. Contact Us</h2>
+  <p>
+    If you have questions about this Privacy Policy or your data, contact us at:
+  </p>
+  <p>
+    <strong>Email:</strong>  support@connectriders.app<br />
+    <strong>App:</strong> Connect Riders
+  </p>
+
+  <footer>
+    <p class="muted">&copy; 2026 Connect Riders. All rights reserved.</p>
+  </footer>
+</body>
+</html>
